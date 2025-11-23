@@ -1,16 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Czornyj Alexei
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Czornyj Alexei
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Pronouns (optional)
-pronouns: she/her
+first_name: Alexei
+last_name: Czornyj
 
 # Status emoji
 status:
@@ -20,156 +17,120 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: MSc in Software Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: University of Poitiers
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:alexeiczornyj@protonmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/BuildLore
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Wonderwice
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: EUR Software Design and Development (MSc)
+    institution: University of Poitiers
+    date_start: 2024-09-01
+    date_end: 2026-09-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      - Research Lab
+      - Geometric Design and Mechanical Simulation for Health
+      - Machine Learning
+      - 3D Algorithmics
+      - Parallel Programming
 
+  - area: BSc Computer Science
+    institution: University of Poitiers
+    date_start: 2021-09-01
+    date_end: 2024-06-30
+    summary: |
+      Graduated with honours
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Object-Oriented Programming, Functional Programming
+      - Software Engineering and Project Management
+      - Human-Computer Interfaces
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Intern
+    company_name: XLIM Laboratory (Poitiers)
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2025-09-22
+    date_end: 2026-03-12
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Implementation of a BSDF viewer for the internal purposes of the XLIM Lab.
+      - Supervised directly by Mickael Ribardière (https://ribardiere.pages.xlim.fr/).
+      - Implemented on a Vulkan Backend with the Haiku library.
+      
+  - position: Research Intern
+    company_name: Ecole de Technologie Supérieure (Montréal)
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2025-06-01
+    date_end: 2025-08-30
+    summary: |2-
+      - Exploratory internship on Neural Importance Sampling for layered materials.
+      - Supervised directly by Adrien Gruson (https://profs.etsmtl.ca/agruson/).
+      - Implemented using PyTorch and Mitsuba, mostly based on [NeuSample](https://cseweb.ucsd.edu/~viscomp/projects/neusample/) and [Position-Free BRDF](https://shuangz.com/projects/layered-sa18/).
+
+  - position: Research Intern
+    company_name: XLIM Laboratory (Poitiers)
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-04-28
+    date_end: 2026-06-30
+    summary: |2-
+      - Data visualization of point-cloud renderings for a supplemental state-of-the-art publication.
+      - Supervised directly by Mickael Ribardière (https://ribardiere.pages.xlim.fr/).
+      - Python (Matplotlib, Pandas, NumPy)
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python
         description: ''
-        percent: 80
         icon: devicon/python
-      - name: RStudio
+      - name: C++
         description: ''
-        percent: 100
-        icon: devicon/rstudio
+        icon: devicon/cplusplus
+      - name: OpenGL/Vulkan
+        description: ''
+        icon: devicon/vulkan
       - name: PyTorch
         description: ''
-        percent: 40
+        icon: devicon/pytorch
+      - name: Cuda
+        description: ''
+        icon: devicon/nvidia
+      - name: Machine Learning
+        description: ''
         icon: devicon/pytorch
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Running
         description: ''
-        percent: 60
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+      - name: Swimming
         description: ''
         percent: 80
-        icon: camera
+        icon: swim
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+# languages:
+#   - name: English (B2)
+#   - name: French (native)
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: brands/coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: brands/edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: brands/datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am currently searching for a PhD position worldwide in Computer Graphics and especially rendering.
+

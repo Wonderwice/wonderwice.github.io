@@ -1,6 +1,6 @@
 ---
-title: 'Home'
-date: 2023-10-24
+title: 'ALexei Czornyj'
+date: 2025-11-23
 type: landing
 
 design:
