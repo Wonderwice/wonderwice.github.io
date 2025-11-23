@@ -114,12 +114,9 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Running
+      - name: Running/Swimming
         description: ''
         icon: person-simple-walk
-      - name: Swimming
-        description: ''
-        icon: person-simple-swim
       - name : GNU / Linux ecosystem
         description: ''
         icon: devicon/linux      
