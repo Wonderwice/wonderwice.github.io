@@ -32,8 +32,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/Wonderwice
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-
+    url: https://www.linkedin.com/alexe%C3%AF-czornyj-45a28b331/
 education:
   - area: EUR Software Design and Development (MSc)
     institution: University of Poitiers

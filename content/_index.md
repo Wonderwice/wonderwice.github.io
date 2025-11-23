@@ -1,5 +1,5 @@
 ---
-title: 'ALexei Czornyj'
+title: 'Alexei Czornyj'
 date: 2025-11-23
 type: landing
 
@@ -27,8 +27,8 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
       # Avatar customization
       avatar:
-        size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: rounded # Options: circle (default), square, rounded
+        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        shape: circle # Options: circle (default), square, rounded
   - block: experience
     content:
       username: admin
@@ -40,13 +40,5 @@ sections:
   - block: skills
     content:
       title: Skills & Hobbies
-      username: admin
-  - block: awards
-    content:
-      title: Awards
-      username: admin
-  - block: languages
-    content:
-      title: Languages
       username: admin
 ---
