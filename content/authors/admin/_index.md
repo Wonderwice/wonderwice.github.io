@@ -103,13 +103,10 @@ skills:
         icon: devicon/cplusplus
       - name: OpenGL/Vulkan
         description: ''
-        icon: devicon/vulkan
-      - name: PyTorch
-        description: ''
-        icon: devicon/pytorch
+        icon: devicon-vulkan-original
       - name: Cuda
         description: ''
-        icon: devicon/nvidia
+        icon: Nvidia_logo.svg
       - name: Machine Learning
         description: ''
         icon: devicon/pytorch
@@ -122,8 +119,7 @@ skills:
         icon: person-simple-walk
       - name: Swimming
         description: ''
-        percent: 80
-        icon: swim
+        icon: fa-regular fa-person-swimming
 
 # languages:
 #   - name: English (B2)
