@@ -103,10 +103,10 @@ skills:
         icon: devicon/cplusplus
       - name: OpenGL/Vulkan
         description: ''
-        icon: devicon-vulkan-original
+        icon: devicon/vulkan  
       - name: Cuda
         description: ''
-        icon: Nvidia_logo.svg
+        icon: custom/nvidia    
       - name: Machine Learning
         description: ''
         icon: devicon/pytorch
