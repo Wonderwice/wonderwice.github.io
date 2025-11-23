@@ -103,13 +103,13 @@ skills:
         icon: devicon/cplusplus
       - name: OpenGL/Vulkan
         description: ''
-        icon: custom/vulkan  
-      - name: Cuda
-        description: ''
-        icon: custom/nvidia    
+        icon: custom/vulkan     
       - name: Machine Learning
         description: ''
         icon: devicon/pytorch
+      - name: Cuda
+        description: ''
+        icon: custom/nvidia 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -119,7 +119,7 @@ skills:
         icon: person-simple-walk
       - name: Swimming
         description: ''
-        icon: fa-regular fa-person-swimming
+        icon: person-simple-swim
       - name : GNU / Linux ecosystem
         description: ''
         icon: devicon/linux      
