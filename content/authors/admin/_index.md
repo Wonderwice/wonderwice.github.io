@@ -77,7 +77,7 @@ work:
     date_end: 2025-08-30
     summary: |2-
       - Exploratory internship on Neural Importance Sampling for layered materials.
-      - Supervised directly by for the ANR Digitalis projectAdrien Gruson](https://profs.etsmtl.ca/agruson/).
+      - Supervised directly by [Adrien Gruson](https://profs.etsmtl.ca/agruson/).
       - Implemented using PyTorch and Mitsuba, mostly based on [NeuSample](https://cseweb.ucsd.edu/~viscomp/projects/neusample/) and [Position-Free BRDF](https://shuangz.com/projects/layered-sa18/).
 
   - position: Part-Time Research Intern
@@ -109,7 +109,7 @@ skills:
       - name: Python
         description: ''
         icon: devicon/python
-      - name: C++
+      - name: C++/Cuda
         description: ''
         icon: devicon/cplusplus
       - name: OpenGL/Vulkan
@@ -118,9 +118,6 @@ skills:
       - name: Machine Learning
         description: ''
         icon: devicon/pytorch
-      - name: Cuda
-        description: ''
-        icon: custom/nvidia 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -134,7 +131,9 @@ skills:
 
 languages:
   - name: English (B2)
+    percent: 75
   - name: French (native)
+    percent: 100
 
 ---
 

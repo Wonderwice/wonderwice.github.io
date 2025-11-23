@@ -41,4 +41,9 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
+
+  - block: languages
+    content:
+      title: Languages
+      username : admin
 ---
