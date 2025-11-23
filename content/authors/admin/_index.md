@@ -60,35 +60,46 @@ education:
 work:
   - position: Research Intern
     company_name: XLIM Laboratory (Poitiers)
-    company_url: ''
+    company_url: 'https://www.xlim.fr/'
     company_logo: ''
     date_start: 2025-09-22
     date_end: 2026-03-12
     summary: |2-
       - Implementation of a BSDF viewer for the internal purposes of the XLIM Lab.
-      - Supervised directly by Mickael Ribardière (https://ribardiere.pages.xlim.fr/).
+      - Supervised directly by [Mickael Ribardière](https://ribardiere.pages.xlim.fr/).
       - Implemented on a Vulkan Backend with the Haiku library.
       
   - position: Research Intern
     company_name: Ecole de Technologie Supérieure (Montréal)
-    company_url: ''
+    company_url: 'https://www.etsmtl.ca/en/research/chairs-laboratories-institutes-centres/laboratories/lab-multimedia'
     company_logo: ''
     date_start: 2025-06-01
     date_end: 2025-08-30
     summary: |2-
       - Exploratory internship on Neural Importance Sampling for layered materials.
-      - Supervised directly by Adrien Gruson (https://profs.etsmtl.ca/agruson/).
+      - Supervised directly by for the ANR Digitalis projectAdrien Gruson](https://profs.etsmtl.ca/agruson/).
       - Implemented using PyTorch and Mitsuba, mostly based on [NeuSample](https://cseweb.ucsd.edu/~viscomp/projects/neusample/) and [Position-Free BRDF](https://shuangz.com/projects/layered-sa18/).
+
+  - position: Part-Time Research Intern
+    company_name: XLIM Laboratory (Poitiers)
+    company_url: 'https://digitalis.humanities.science/'
+    company_logo: 'https://digitalis.humanities.science/images/digitalis_logo.png'
+    date_start: 2024-09-01
+    date_end: 2025-05-01
+    summary: |2-
+      - Introduction to research methodology as an assistant for a PhD student.
+      - Supervised by Rémi Orveau (PhD student) and Daniel Menevaux (Professor) for the ANR Digitalis project.
+      - Implementation of research papers on texture synthesis and image processing applied to artworks weathering.
 
   - position: Research Intern
     company_name: XLIM Laboratory (Poitiers)
-    company_url: ''
-    company_logo: ''
+    company_url: https://digitalis.humanities.science/
+    company_logo: 'https://digitalis.humanities.science/images/digitalis_logo.png'
     date_start: 2024-04-28
-    date_end: 2026-06-30
+    date_end: 2024-06-30
     summary: |2-
-      - Data visualization of point-cloud renderings for a supplemental state-of-the-art publication.
-      - Supervised directly by Mickael Ribardière (https://ribardiere.pages.xlim.fr/).
+      - Data visualization of point-cloud renderings for a supplemental state-of-the-art publication for the ANR Digitalis project.
+      - Supervised directly by [Mickael Ribardière](https://ribardiere.pages.xlim.fr/).
       - Python (Matplotlib, Pandas, NumPy)
 
 # Skills
@@ -114,12 +125,12 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Running/Swimming
-        description: ''
+      - name: Running / Swimming
+        description: 'Currently heading for Paris 2026 marathon'
         icon: person-simple-walk
-      - name : GNU / Linux ecosystem
-        description: ''
-        icon: devicon/linux      
+      - name: GNU / Linux ecosystem
+        description: 'As a Linux enthusiast, I always try to break my config to find new knowledge'
+        icon: devicon/linux    
 
 # languages:
 #   - name: English (B2)
