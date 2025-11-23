@@ -103,7 +103,7 @@ skills:
         icon: devicon/cplusplus
       - name: OpenGL/Vulkan
         description: ''
-        icon: devicon/vulkan  
+        icon: custom/vulkan  
       - name: Cuda
         description: ''
         icon: custom/nvidia    
@@ -120,6 +120,9 @@ skills:
       - name: Swimming
         description: ''
         icon: fa-regular fa-person-swimming
+      - name : GNU / Linux ecosystem
+        description: ''
+        icon: devicon/linux      
 
 # languages:
 #   - name: English (B2)
