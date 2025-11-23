@@ -51,7 +51,7 @@ education:
     date_start: 2021-09-01
     date_end: 2024-06-30
     summary: |
-      Graduated with honours
+      Graduated with honours. 
       Courses included:
       - Object-Oriented Programming, Functional Programming
       - Software Engineering and Project Management
@@ -132,9 +132,9 @@ skills:
         description: 'As a Linux enthusiast, I always try to break my config to find new knowledge'
         icon: devicon/linux    
 
-# languages:
-#   - name: English (B2)
-#   - name: French (native)
+languages:
+  - name: English (B2)
+  - name: French (native)
 
 ---
 
